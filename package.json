@@ -2,7 +2,7 @@
   "name": "note-taker--master",
   "version": "1.0.0",
   "description": "An application to help write, save, and generate beautiful notes",
-  "main": "script.js",
+  "main": "notes.html",
   "scripts": {
     "test": "npm test"
   },
