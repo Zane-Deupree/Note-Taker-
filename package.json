@@ -5,7 +5,6 @@
   "main": "script.js",
   "scripts": {
     "test": "npm test"
-   
   },
   "author": "Zane Deupree",
   "license": "ISC",
