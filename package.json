@@ -4,8 +4,8 @@
   "description": "An application to help write, save, and generate beautiful notes",
   "main": "script.js",
   "scripts": {
-    "test": "npm test",
-    "start": "notes.ejs"
+    "test": "npm test"
+   
   },
   "author": "Zane Deupree",
   "license": "ISC",
